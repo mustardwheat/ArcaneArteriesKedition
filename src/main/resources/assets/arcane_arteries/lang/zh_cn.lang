@@ -1,0 +1,13 @@
+item.thaumic_slate.name=神秘石板
+item.mana_slate.name=魔力石板
+
+tooltip.botania.slate.desc=在魔力池中将石头转化
+tooltip.thaumcraft.slate.desc=在坩埚中将石头转化
+
+item.thaumic_sacrificial_dagger.name=神秘匕首
+item.botany_sacrificial_dagger.name=精灵匕首
+item.thaumic_dagger_of_sacrifice.name=神秘献祭刀
+item.botany_dagger_of_sacrifice.name=精灵献祭刀
+
+tile.thaumic_rune.name=神秘符文
+tile.mana_rune.name=魔力符文
